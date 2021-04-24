@@ -1,0 +1,30 @@
+PS E:\Desktop\mpi作业程序集> mpiexec -np 8 sieve1.exe 1000000000
+There are 50847534 primes less than or equal to 1000000000
+SIEVE (8)   4.870975
+PS E:\Desktop\mpi作业程序集> mpiexec -np 8 sieve1.exe 1000000000
+There are 50847534 primes less than or equal to 1000000000
+SIEVE (8)   4.860218
+PS E:\Desktop\mpi作业程序集> mpiexec -np 8 sieve1.exe 1000000000
+There are 50847534 primes less than or equal to 1000000000
+SIEVE (8)   4.954737
+PS E:\Desktop\mpi作业程序集> mpiexec -np 8 sieve1.exe 1000000000
+There are 50847534 primes less than or equal to 1000000000
+SIEVE (8)   4.887487
+PS E:\Desktop\mpi作业程序集> mpiexec -np 8 sieve1.exe 1000000000
+There are 50847534 primes less than or equal to 1000000000
+SIEVE (8)   4.893379
+PS E:\Desktop\mpi作业程序集> mpiexec -np 8 sieve1.exe 1000000000
+There are 50847534 primes less than or equal to 1000000000
+SIEVE (8)   4.959487
+PS E:\Desktop\mpi作业程序集> mpiexec -np 8 sieve1.exe 1000000000
+There are 50847534 primes less than or equal to 1000000000
+SIEVE (8)   4.884657
+PS E:\Desktop\mpi作业程序集> mpiexec -np 8 sieve1.exe 1000000000
+There are 50847534 primes less than or equal to 1000000000
+SIEVE (8)   4.883316
+PS E:\Desktop\mpi作业程序集> mpiexec -np 8 sieve1.exe 1000000000
+There are 50847534 primes less than or equal to 1000000000
+SIEVE (8)   4.860946
+PS E:\Desktop\mpi作业程序集> mpiexec -np 8 sieve1.exe 1000000000
+There are 50847534 primes less than or equal to 1000000000
+SIEVE (8)   5.078730
